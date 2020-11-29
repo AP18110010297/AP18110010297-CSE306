@@ -1,0 +1,79 @@
+
+#
+ : identifier
+<: relational operator LT
+stdio : identifier
+.
+h : identifier
+>: relational operator GT 
+int : keyword 
+main : identifier
+(
+)
+{ 
+int : keyword 
+number1 : identifier
+,
+number2 : identifier
+,
+sum : identifier
+;
+printf : identifier
+(
+"
+Enter : identifier
+two : identifier
+integers : identifier
+:
+"
+)
+;
+scanf : identifier
+(
+"
+%
+d : identifier
+%
+d : identifier
+"
+,
+&
+number1 : identifier
+,
+&
+number2 : identifier
+)
+;
+//: invalid lexeme
+calculating : identifier
+sum : identifier
+sum : identifier
+!
+number1 : identifier
++
+number2 : identifier
+;
+printf : identifier
+(
+"
+%
+d : identifier
++
+%
+d : identifier
+!
+%
+d : identifier
+"
+,
+number1 : identifier
+,
+number2 : identifier
+,
+sum : identifier
+)
+;
+return : identifier 
+0: number
+;
+}
